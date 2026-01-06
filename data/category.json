@@ -1,0 +1,153 @@
+[
+  {
+    "id": "1",
+    "name": "Frutos Secos y Semillas",
+    "description": "Ricos en grasas saludables, proteínas y minerales.",
+    "benefits": [
+      "Aportan energía",
+      "Mejoran la salud cardiovascular",
+      "Favorecen la saciedad"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Frutas Deshidratadas",
+    "description": "Frutas naturales sin agua, concentradas en sabor y nutrientes.",
+    "benefits": [
+      "Fuente rápida de energía",
+      "Aportan fibra",
+      "Ricas en antioxidantes"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Cereales y Granos Integrales",
+    "description": "Alimentos completos que conservan su fibra y nutrientes.",
+    "benefits": [
+      "Mejoran la digestión",
+      "Brindan energía sostenida",
+      "Ayudan a regular el colesterol"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Legumbres y Proteínas Vegetales",
+    "description": "Base de una alimentación equilibrada y vegetal.",
+    "benefits": [
+      "Alto contenido proteico",
+      "Ricas en fibra y hierro",
+      "Favorecen la salud muscular"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Aceites y Grasas Saludables",
+    "description": "Grasas de alta calidad para una nutrición consciente.",
+    "benefits": [
+      "Cuidan la salud del corazón",
+      "Reducen la inflamación",
+      "Mejoran la absorción de vitaminas"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Mantecas y Pastas de Frutos Secos",
+    "description": "Elaboradas a partir de frutos secos naturales.",
+    "benefits": [
+      "Aportan energía natural",
+      "Fuente de proteínas",
+      "Contienen grasas saludables"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Endulzantes Naturales",
+    "description": "Alternativas más saludables al azúcar refinada.",
+    "benefits": [
+      "Menor impacto glucémico",
+      "Mejor perfil nutricional",
+      "Endulzan de forma natural"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Productos Sin TACC",
+    "description": "Alimentos libres de gluten, aptos para celíacos.",
+    "benefits": [
+      "Mejor digestión",
+      "Aptos para intolerancias",
+      "Bienestar digestivo"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Productos Orgánicos y Naturales",
+    "description": "Cultivados sin agroquímicos ni conservantes artificiales.",
+    "benefits": [
+      "Alimentos más puros",
+      "Mayor valor nutricional",
+      "Cuidado del medio ambiente"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Productos Veganos y Vegetarianos",
+    "description": "Opciones 100% vegetales para una alimentación consciente.",
+    "benefits": [
+      "Favorecen la salud general",
+      "Reducen el impacto ambiental",
+      "Aportan nutrientes esenciales"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Productos Dietéticos y Sin Azúcar",
+    "description": "Diseñados para una alimentación controlada.",
+    "benefits": [
+      "Ayudan a regular el consumo calórico",
+      "Controlan el azúcar en sangre",
+      "Ideales para dietas especiales"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Superalimentos",
+    "description": "Alimentos con alta densidad nutricional.",
+    "benefits": [
+      "Refuerzan el sistema inmune",
+      "Ricos en antioxidantes",
+      "Aumentan la vitalidad"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Suplementos y Vitaminas",
+    "description": "Complementos para necesidades nutricionales específicas.",
+    "benefits": [
+      "Mejoran el rendimiento físico",
+      "Apoyan la salud ósea",
+      "Contribuyen al bienestar general"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Hierbas, Tés e Infusiones",
+    "description": "Selección natural para el cuidado diario.",
+    "benefits": [
+      "Favorecen la digestión",
+      "Ayudan a la relajación",
+      "Promueven el equilibrio corporal"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Snacks Saludables",
+    "description": "Opciones prácticas y nutritivas para el día a día.",
+    "benefits": [
+      "Controlan el apetito",
+      "Aportan energía equilibrada",
+      "Ideales para llevar"
+    ]
+  }
+]
+

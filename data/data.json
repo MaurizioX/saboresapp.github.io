@@ -1,39 +1,192 @@
 [
   {
-    "name": "Product 1",
-    "price": 29.99,
-    "imageUrl": "/aceite_coco.png",
-    "description": "High-quality product with amazing features"
-  },
-  {
-    "name": "Product 2",
+    "id": "001",
+    "name": "Harina de Arroz",
+    "description": "Harina sin gluten, liviana y de fácil digestión.",
+    "longDescription": "Ideal para personas con intolerancia al gluten. Aporta energía rápida y es suave para el sistema digestivo.",
+    "categoryIds": ["3", "8", "10"],
+    "imageUrl": "/images/sabores/harina_de_arroz.jpg",
     "price": 49.99,
-    "imageUrl": "/images/ARROZ_KOHOSHIHIKARI.jpg",
-    "description": "Premium product for demanding customers"
+    "sellType": "KILOGRAM"
   },
   {
-    "name": "Product 3",
-    "price": 19.99,
-    "imageUrl": "/aceite_coco.png",
-    "description": "Affordable solution for everyday use"
+    "id": "002",
+    "name": "Harina de Quinoa",
+    "description": "Harina sin gluten con alto valor proteico.",
+    "longDescription": "Contiene aminoácidos esenciales y aporta energía sostenida.",
+    "categoryIds": ["3", "8", "10", "12"],
+    "imageUrl": "/images/sabores/default.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
   },
   {
-    "name": "Product 4",
-    "price": 79.99,
-    "imageUrl": "/aceite_coco.png",
-    "description": "Professional-grade product with advanced capabilities"
+    "id": "003",
+    "name": "Harina de Maíz para Arepas PAN",
+    "description": "Harina precocida ideal para arepas.",
+    "longDescription": "Permite preparar arepas tradicionales de forma rápida y nutritiva.",
+    "categoryIds": ["3", "10"],
+    "imageUrl": "/images/sabores/harina_para_arepas_pan.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
   },
   {
-    "name": "Product 5",
-    "price": 39.99,
-    "imageUrl": "/images/CASTANAS.jpg",
-    "description": "Versatile product suitable for various needs"
+    "id": "004",
+    "name": "Chía Premium",
+    "description": "Semilla rica en omega 3 y fibra.",
+    "longDescription": "Ayuda a mejorar la salud cardiovascular y digestiva.",
+    "categoryIds": ["1", "12", "10"],
+    "imageUrl": "/images/sabores/mix_de_semillas.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
   },
   {
-    "name": "Product 6",
-    "price": 59.99,
-    "imageUrl": "/aceite_coco.png",
-    "description": "Premium quality with exceptional durability"
+    "id": "005",
+    "name": "Quinoa Boliviana",
+    "description": "Quinoa de alta calidad nutricional.",
+    "longDescription": "Alimento completo, rico en proteínas y minerales.",
+    "categoryIds": ["3", "12", "10", "9"],
+    "imageUrl": "/images/sabores/quinoa_boliviana.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "006",
+    "name": "Almendras",
+    "description": "Fruto seco rico en grasas saludables.",
+    "longDescription": "Contribuyen a la salud cardiovascular y aportan saciedad.",
+    "categoryIds": ["1", "10"],
+    "imageUrl": "/images/sabores/almendras_non_pareil.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "007",
+    "name": "Nueces",
+    "description": "Fuente natural de omega 3.",
+    "longDescription": "Benefician la salud cerebral y del corazón.",
+    "categoryIds": ["1", "10"],
+    "imageUrl": "/images/sabores/nueces_chandler_extra_light.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "008",
+    "name": "Nueces Pecán",
+    "description": "Fruto seco premium de sabor suave.",
+    "longDescription": "Ricas en antioxidantes y grasas saludables.",
+    "categoryIds": ["1", "10"],
+    "imageUrl": "/images/sabores/nueces_pecan_mariposa.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "009",
+    "name": "Maní Crudo",
+    "description": "Leguminosa rica en proteínas.",
+    "longDescription": "Aporta energía y proteínas de origen vegetal.",
+    "categoryIds": ["1", "10"],
+    "imageUrl": "/images/sabores/mani_crudo_con_piel.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "010",
+    "name": "Maní con Cáscara",
+    "description": "Maní natural con cáscara.",
+    "longDescription": "Snack nutritivo y natural.",
+    "categoryIds": ["1", "15"],
+    "imageUrl": "/images/sabores/mani_con_cascara.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "011",
+    "name": "Aceite de Coco Virgen",
+    "description": "Aceite natural para cocina saludable.",
+    "longDescription": "Grasa estable al calor, ideal para cocinar y hornear.",
+    "categoryIds": ["5", "8", "10"],
+    "imageUrl": "/images/sabores/aceite_de_coco_virgen_entre_nuts_200_cc.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "012",
+    "name": "Aceite de Oliva Extra Virgen",
+    "description": "Aceite premium rico en antioxidantes.",
+    "longDescription": "Protege la salud cardiovascular y reduce la inflamación.",
+    "categoryIds": ["5", "9", "10"],
+    "imageUrl": "/images/sabores/aceite_de_oliva_extra_virgen_laur_organico.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "013",
+    "name": "Aceite de Palta Extra Virgen",
+    "description": "Aceite vegetal de alta calidad.",
+    "longDescription": "Rico en grasas monoinsaturadas y vitamina E.",
+    "categoryIds": ["5", "9", "10"],
+    "imageUrl": "/images/sabores/aceite_de_palta_extra_virgen_ganofi.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "014",
+    "name": "Maca 500 g",
+    "description": "Superalimento energizante de origen andino.",
+    "longDescription": "Mejora la vitalidad, la energía y el equilibrio hormonal.",
+    "categoryIds": ["12", "13", "10"],
+    "imageUrl": "/images/sabores/default.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "015",
+    "name": "Colágeno",
+    "description": "Suplemento para articulaciones, piel y huesos.",
+    "longDescription": "Contribuye a la elasticidad de la piel y la salud ósea.",
+    "categoryIds": ["13"],
+    "imageUrl": "/images/sabores/colageno_hidrolizado.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "016",
+    "name": "Citrato de Magnesio",
+    "description": "Suplemento mineral esencial.",
+    "longDescription": "Apoya la función muscular y nerviosa.",
+    "categoryIds": ["13"],
+    "imageUrl": "/images/sabores/citrato_de_magnesio_granger.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "017",
+    "name": "Dulce de Leche con Stevia",
+    "description": "Dulce sin azúcar agregada.",
+    "longDescription": "Ideal para dietas con control de azúcar.",
+    "categoryIds": ["7", "11"],
+    "imageUrl": "/images/sabores/dulce_de_leche_doña_magdalena_400_gr.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "018",
+    "name": "Yerba Mate Caballo Negro",
+    "description": "Yerba mate barbacuá.",
+    "longDescription": "Energizante natural rico en antioxidantes.",
+    "categoryIds": ["14"],
+    "imageUrl": "/images/sabores/yerba_mate_caballo_negro.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
+  },
+  {
+    "id": "019",
+    "name": "Vinagre de Sidra de Manzana",
+    "description": "Vinagre natural sin filtrar.",
+    "longDescription": "Favorece la digestión y el metabolismo.",
+    "categoryIds": ["9", "11"],
+    "imageUrl": "/images/sabores/vinagre_de_sidra_de_manzana_pampa_gourmet.jpg",
+    "price": 49.99,
+    "sellType": "KILOGRAM"
   }
 ]
-
